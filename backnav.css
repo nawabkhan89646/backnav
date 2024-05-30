@@ -1,0 +1,28 @@
+body{
+    background: url(img/R.jpeg.jpeg);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav{
+    overflow: hidden;
+    background: #fff;
+    margin-top: -5px;
+}
+.nav a{
+    float: left;
+    color:#000;
+    text-align: center;
+    padding: 20px 16px;
+    font-size: 14px;
+    width: 100px;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.nav a:hover{
+    background: purple;
+    color: #fff;
+
+}
